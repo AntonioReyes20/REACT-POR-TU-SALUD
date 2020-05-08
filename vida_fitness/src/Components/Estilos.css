@@ -1,0 +1,14 @@
+.Logo{
+    width: 292px;
+    height: 100px;
+}
+
+.Title{
+    font-family: 'Arial', cursive;
+    font-size: 50px;
+    color: black;
+}
+
+.header{
+    background-color: blueviolet;
+}

@@ -4,6 +4,7 @@ import './Components/Estilos.css';
 import NavBar from './Components/NavBar';
 import {Container} from '@material-ui/core';
 import Page from './Components/Page';
+import Formulario from './Components/Formulario';
 
 function App() {
 
@@ -22,6 +23,10 @@ const config = {
         <nav className="Nav">
           <Page/>
         </nav>
+      </Container>
+
+      <Container>
+        <Formulario/>
       </Container>
 
     </div>
